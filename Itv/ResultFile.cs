@@ -8,7 +8,7 @@ using System.Windows.Forms;
 
 namespace Itv
 {
-    public class ResultFile : Form
+    public class ResultFile
     {
         public static string[] file1 { get; set; }
         public static string[] file2 { get; set; }
